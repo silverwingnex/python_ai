@@ -1,0 +1,36 @@
+{
+  "total_students": 5,
+  "average_age": 59.0,
+  "top_age": {
+    "name": "zangief",
+    "age": 70,
+    "birthday": "6.1"
+  },
+  "data": [
+    {
+      "name": "ryu",
+      "age": 58,
+      "birthday": "7.21"
+    },
+    {
+      "name": "chun-li",
+      "age": 55,
+      "birthday": "3.1"
+    },
+    {
+      "name": "guile",
+      "age": 63,
+      "birthday": "12.23"
+    },
+    {
+      "name": "cammy",
+      "age": 49,
+      "birthday": "1.6"
+    },
+    {
+      "name": "zangief",
+      "age": 70,
+      "birthday": "6.1"
+    }
+  ]
+}
